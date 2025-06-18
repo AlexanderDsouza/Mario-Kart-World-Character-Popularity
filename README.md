@@ -1,4 +1,4 @@
-# 🏎️ Mario Kart World Character Popularity Tracker
+# 🏎️ Mario Kart World Character Popularity Tracker(Incomplete)
 
 This project aims to identify the most popular characters being played in **Mario Kart World** by combining web scraping and computer vision.
 
